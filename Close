@@ -1,0 +1,7 @@
+%X Windows environment
+
+sudo apt-get update
+sudo apt-get install xscreensaver   
+
+% Tool -> Preferences -> Screensaver
+% Mode-?Disable Screen Saver 
